@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\PR8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E240F89D-DD09-4E56-A894-2E04278314B8}|PR8.vcxproj|C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\PR8\\PR8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E240F89D-DD09-4E56-A894-2E04278314B8}|PR8.vcxproj|solutionrelative:PR8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E910E98-4096-4871-AE31-EA3FF081BDA9}|..\\Liba\\Liba.vcxproj|C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\Liba\\Liba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E910E98-4096-4871-AE31-EA3FF081BDA9}|..\\Liba\\Liba.vcxproj|C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\Liba\\Liba.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liba.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\Liba\\Liba.cpp",
+              "RelativeDocumentMoniker": "..\\Liba\\Liba.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\Liba\\Liba.cpp",
+              "RelativeToolTip": "..\\Liba\\Liba.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T11:20:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Liba.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\Liba\\Liba.h",
+              "RelativeDocumentMoniker": "..\\Liba\\Liba.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\Liba\\Liba.h",
+              "RelativeToolTip": "..\\Liba\\Liba.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T11:25:03.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR8.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\PR8\\PR8.cpp",
+              "RelativeDocumentMoniker": "PR8.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Colegj\\2Sem\\C\u002B\u002B\\PR8\\PR8.cpp",
+              "RelativeToolTip": "PR8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T10:50:12.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
